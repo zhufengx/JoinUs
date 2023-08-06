@@ -1,6 +1,6 @@
 # JoinUs
 
-## Hot Position @ SenseTime (Updated by 2023.8.6)
+## Hot Positions @ SenseTime (Updated by 2023.8.6)
 Feel free to contact zhufeng@sensetime.com if interested or have any questions.
 
 ### 算法研究员（NLP方向）@上海
@@ -25,14 +25,14 @@ Feel free to contact zhufeng@sensetime.com if interested or have any questions.
 4. 具有优秀的分析问题和解决问题的能力，具有良好的沟通能力和团队合作能力，在工作中敢于突破与创新，对解决具有挑战性的问题充满激情；
 5. 在CVPR/ICCV/ECCV/NeurPS/ICLR/ACL/EMNLP等学术顶会有相关论文发表，或在相关国际竞赛中取得优异成绩者优先；
 
-#### 算法研究员（视觉检索聚类） @上海、深圳
+### 算法研究员（视觉检索聚类） @上海、深圳
 #### 岗位职责
 1. 负责智慧城市下大规模目标检索、聚类分析的算法研发落地工作，构建智慧城市视图搜索引擎，帮助下游产品线在行业内建立算法优势；
 2. 负责将学术届最新的技术进展转化为产品新能力或内部效率工具；
 3. 构建和维护相关研究方向的代码框架、数据基础，紧跟学术前沿，输出创新研究成果；
 #### 任职要求
-1、计算机、电子信息等相关专业硕士以上学历； 
+1. 计算机、电子信息等相关专业硕士以上学历；
 2. 熟练使用Python和C/C++，掌握PyTorch， Tensorflow等深度学习框架之一；
 3. 在ReID、图像/跨模态/近似近邻检索、聚类、时序数据分析等方向中的一个或者多个有研究或落地经验；
-4、具有优秀的分析问题和解决问题的能力，具有良好的沟通能力和团队合作能力，在工作中敢于突破与创新，对解决具有挑战性的问题充满激情； 
+4. 具有优秀的分析问题和解决问题的能力，具有良好的沟通能力和团队合作能力，在工作中敢于突破与创新，对解决具有挑战性的问题充满激情；
 5. 在CVPR/ICCV/ECCV/NeurPS/ICLR/AAAI/SIGKDD等学术顶会有相关论文发表，或在相关国际竞赛中取得优异成绩者优先；
