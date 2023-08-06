@@ -1,7 +1,13 @@
 # JoinUs
 
-## Hot Positions @ SenseTime (Updated by 2023.8.6)
-Feel free to contact zhufeng@sensetime.com if interested or have any questions.
+## 我们是谁？
+### 商汤集团-智慧城市与商业事业群-研发团队
+1. 专注于城市级别的先进感知及决策智能技术研发，多项核心技术保持业界领先；
+2. 帮助商汤方舟城市开放平台赋能150+城市，市场份额行业第一，助力安全、便捷、高效的城市生活；
+3. 团队技术栈完整：海内外名校博士&硕士带队研究，工作得到ICLR, CVPR, ACL等顶级学术会议认可；国内外大厂10年以上工程经验保障技术落地；
+
+## 热门岗位 (Updated by 2023.8.6)
+如有兴趣或问题，请联系zhufeng@sensetime.com
 
 ### 算法研究员（NLP方向）@上海
 #### 岗位职责
